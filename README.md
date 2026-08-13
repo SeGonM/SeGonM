@@ -1,7 +1,7 @@
 <!-- Reemplaza las URLs de las imágenes por tus propias imágenes para personalizar tu perfil. Sube las imágenes a /assets/ y usa las URLs en raw.githubusercontent.com si lo prefieres. -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1545972152-841a0b06a0e5?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=7c2e9d5f0b4f6c2a4b2e35f6d3f8b8b6" alt="Banner" style="max-width:100%; border-radius:8px;" />
+  <img src="https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/hero1.jpg" alt="Banner" style="max-width:100%; border-radius: 8px;">
 </p>
 
 # SeGonM 👋
@@ -11,7 +11,7 @@
   <tr>
     <td valign="top" width="65%">
 
-Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análisis de datos** para la toma de decisiones estratégicas. Me gusta construir soluciones prácticas, mantener código y datos ordenados, y automatizar procesos para obtener resultados confiables.
+Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análisis de datos** para la toma de decisiones estratégicas. Me gusta construir soluciones prácticas, mantener código limpio y documentado.
 
 - ⚙️ **Enfoque:** Código modular y optimización de procesos.
 - 🛠️ **Metodología:** Control de versiones y estructura de datos limpia.
@@ -24,7 +24,7 @@ Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análi
     <td valign="top" width="35%">
       <p align="center">
         <!-- Reemplaza esta URL por tu foto/avatar -->
-        <img src="https://images.unsplash.com/photo-1524492412937-496f6bfb34c0?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&s=1a7c3c2c8d2e1b6f6e4d3b2a5a1f0c4d" alt="Samuel" style="width:200px; border-radius:50%; border:4px solid rgba(255,255,255,0.06);" />
+        <img src="https://images.unsplash.com/photo-1524492412937-496f6bfb34c0?q=80&w=400&auto=format&fit=crop&ixlib=rb-4.0.3&s=1a7c3c2c8d2e1b6f6e4d3b2a5a1f0c4d" alt="Samuel" style="width:200px; border-radius: 50%;">
       </p>
       <p align="center">
         <strong>Samuel González Muñoz</strong><br>
@@ -44,7 +44,7 @@ Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análi
 
 ### Sobre mí
 
-Soy especialista en convertir datos en información accionable: limpieza, transformación y visualización para apoyar decisiones. Me interesa especialmente la reproducibilidad, pipelines de datos y modelos simples que aporten impacto real.
+Soy especialista en convertir datos en información accionable: limpieza, transformación y visualización para apoyar decisiones. Me interesa especialmente la reproducibilidad, pipelines de datos y metodología ágil.
 
 ### Contacto
 
