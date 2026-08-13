@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- He cambiado height a auto para evitar que la imagen se deforme. -->
-  <img src="https://i.pinimg.com/736x/ff/ad/d3/ffadd38d46d9a6deeb278fce4d2d7dd7.jpg" alt="Banner" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+  <img src="https://i.pinimg.com/736x/e9/9d/8c/e99d8c4103785ab7c4dd55aa3d7cc022.jpg" alt="Banner" style="width: 100%; height: auto; display: block; border-radius: 8px;">
 </p>
 
 
