@@ -1,7 +1,7 @@
 <!-- Reemplaza las URLs de las imágenes por tus propias imágenes para personalizar tu perfil. Sube las imágenes a /assets/ y usa las URLs en raw.githubusercontent.com si lo prefieres. -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/hero1.jpg" alt="Banner" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/hero2.jpg" alt="Banner" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
 </p>
 
 # SeGonM 👋
