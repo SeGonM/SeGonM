@@ -1,12 +1,11 @@
 <!-- Reemplaza las URLs de las imágenes por tus propias imágenes para personalizar tu perfil. Sube las imágenes a /assets/ y usa las URLs en raw.githubusercontent.com si lo prefieres. -->
-
+# SeGonM 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/hero7.jpg" alt="Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/hero5.jpg" alt="Banner" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
 </p>
 
-# SeGonM 👋
-### Samuel González Muñoz — SeGonM
 
+### Samuel González Muñoz — SeGonM
 <table>
   <tr>
     <td valign="top" width="65%">
@@ -24,7 +23,7 @@ Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análi
     <td valign="top" width="35%">
       <p align="center">
         <!-- Reemplaza esta URL por tu foto/avatar -->
-        <img src="https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/image1.jpg" alt="Samuel" style="width:200px; border-radius: 50%;">
+        <img src="https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/image3.jpg" alt="Samuel" style="width:200px; border-radius: 50%;">
       </p>
       <p align="center">
         <strong>Samuel González Muñoz</strong><br>
