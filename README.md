@@ -27,10 +27,6 @@ Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análi
         <!-- Reemplaza esta URL por tu foto/avatar -->
         <img src="https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/image3.jpg" alt="Samuel" style="width:200px; border-radius: 50%;">
       </p>
-      <p align="center">
-        <strong>Samuel González Muñoz</strong><br>
-        Data Analyst · Python · SQL
-      </p>
     </td>
   </tr>
 </table>
