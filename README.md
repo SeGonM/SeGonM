@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- He cambiado height a auto para evitar que la imagen se deforme. -->
-  <img src="https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/hero5.jpg" alt="Banner" style="width: 100%; height: auto; display: block; border-radius: 8px;">
+  <img src="https://i.pinimg.com/1200x/17/a8/31/17a8315b6869a21b72ffe7f9e06e8684.jpg" alt="Banner" style="width: 100%; height: auto; display: block; border-radius: 8px;">
 </p>
 
 
