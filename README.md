@@ -25,7 +25,7 @@ Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análi
     <td valign="top" width="35%">
       <p align="center">
         <!-- Reemplaza esta URL por tu foto/avatar -->
-        <img src="https://i.pinimg.com/736x/fd/ff/15/fdff154c65eb56951b50fd3cca0be78f.jpg" alt="Samuel" style="width:300px; border-radius: 50%;">
+        <img src="https://i.pinimg.com/736x/fd/ff/15/fdff154c65eb56951b50fd3cca0be78f.jpg" alt="Samuel" style="width:500px; border-radius: 50%;">
       </p>
     </td>
   </tr>
