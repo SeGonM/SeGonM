@@ -8,7 +8,7 @@
 
 
 ### Samuel González Muñoz — SeGonM
-
+<table>
   <tr>
     <td valign="top" width="65%">
 
@@ -21,6 +21,7 @@ Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SeGonM)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sml.munoz.gonzalez@gmail.com)
 
+
 </td>
     <td valign="top" width="35%">
       <p align="center">
@@ -29,7 +30,7 @@ Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análi
       </p>
     </td>
   </tr>
-
+</table>
 
 ---
 
