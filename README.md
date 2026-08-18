@@ -12,11 +12,9 @@
   <tr>
     <td valign="top" width="65%">
 
-Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análisis de datos** para la toma de decisiones estratégicas. Me gusta construir soluciones prácticas, mantener código [...]
+Soy Samuel, estudiante de 5º semestre de Ingeniería Informática con pasión genuina por el desarrollo web backend y el análisis de datos. Me considero una persona disciplinada en mi aprendizaje, amable y dispuesto a colaborar en equipo. Creo que el código bien escrito y los datos bien interpretados pueden resolver problemas reales.
 
-- ⚙️ **Enfoque:** Código modular y optimización de procesos.
-- 🛠️ **Metodología:** Control de versiones y estructura de datos limpia.
-- ⚡ **Disponibilidad:** Abierto a nuevos retos que requieran análisis crítico y ejecución técnica.
+Actualmente estoy trabajando en mis primeros proyectos prácticos mientras balanceo mi formación universitaria. Cada proyecto es una oportunidad para consolidar conceptos y aplicar nuevas tecnologías. Mi mentalidad se basa en consistencia sobre perfección, pequeños pasos diarios y código limpio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SeGonM)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sml.munoz.gonzalez@gmail.com)
