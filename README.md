@@ -20,10 +20,6 @@ Mi enfoque profesional se centra en escribir código modular, limpio y mantenibl
 
 Me motiva especialmente trabajar en proyectos que requieran pensamiento crítico y ejecución técnica precisa. Estoy comprometido con mi crecimiento profesional y busco constantemente nuevos desafíos que me permitan expandir mis conocimientos y habilidades de programación. Mi objetivo es convertirme en un desarrollador competente y versátil, capaz de adaptarse a diferentes tecnologías y contribuir significativamente en equipos de trabajo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SeGonM)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sml.munoz.gonzalez@gmail.com)
-
-
 </td>
     <td valign="top" width="35%">
       <p align="center">
@@ -64,16 +60,6 @@ Me motiva especialmente trabajar en proyectos que requieran pensamiento crítico
 
 ---
 
-## Mis Intereses Principales
-
-### Backend Development
-Construir APIs robustas, escalables y eficientes que resuelvan problemas reales. Me fascina la lógica detrás de los servidores y cómo los datos fluyen a través de las aplicaciones.
-
-### Full-Stack Learning
-Aunque mi pasión es backend, entiendo la importancia de comprender todo el ecosistema del desarrollo web moderno.
-
----
-
 ## Proyecto Actual
 
 Trabajando en **mis primeros proyectos prácticos** mientras continúo mi formación universitaria. Cada proyecto es una oportunidad para consolidar conceptos y aplicar nuevas tecnologías.
@@ -81,6 +67,5 @@ Trabajando en **mis primeros proyectos prácticos** mientras continúo mi formac
 ---
 
 ### Contacto
-
-- LinkedIn: https://www.linkedin.com/in/SeGonM
-- Email: sml.munoz.gonzalez@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SeGonM)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sml.munoz.gonzalez@gmail.com)
