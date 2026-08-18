@@ -24,7 +24,7 @@ Me motiva especialmente trabajar en proyectos que requieran pensamiento crítico
     <td valign="top" width="35%">
       <p align="center">
         <!-- Reemplaza esta URL por tu foto/avatar -->
-        <img src="https://i.pinimg.com/736x/fd/ff/15/fdff154c65eb56951b50fd3cca0be78f.jpg" alt="Samuel" style="width:500px; border-radius: 50%;">
+        <img src="https://i.pinimg.com/736x/86/c2/29/86c229df5971f06531f9d0e215f95d34.jpg" alt="Samuel" style="width:500px; border-radius: 50%;">
       </p>
     </td>
   </tr>
