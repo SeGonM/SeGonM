@@ -1,94 +1,57 @@
-Estudiante de Ingeniería Informática apasionado por el desarrollo web
-
-# Samuel González Muñoz
+<!-- Reemplaza las URLs de las imágenes por tus propias imágenes para personalizar tu perfil. Sube las imágenes a /assets/ y usa las URLs en raw.githubusercontent.com si lo prefieres. -->
+# SeGonM 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingeniería+Informática;Apasionado+por+Backend+y+Datos;En+constante+aprendizaje" alt="Typing SVG" />
+  <!-- He cambiado height a auto para evitar que la imagen se deforme. -->
+  <img src="https://i.pinimg.com/736x/e9/9d/8c/e99d8c4103785ab7c4dd55aa3d7cc022.jpg" alt="Banner" style="width: 100%; height: auto; display: block; border-radius: 8px;">
 </p>
 
----
 
+### Samuel González Muñoz — SeGonM
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="65%">
 
-## Sobre mí
+Hola — soy Samuel. Profesional enfocado en la **extracción, limpieza y análisis de datos** para la toma de decisiones estratégicas. Me gusta construir soluciones prácticas, mantener código [...]
 
-Soy Samuel, estudiante de 5º semestre de Ingeniería Informática con pasión genuina por el desarrollo web backend y el análisis de datos. Me considero una persona disciplinada en mi aprendizaje, amable y dispuesto a colaborar en equipo. Creo que el código bien escrito y los datos bien interpretados pueden resolver problemas reales.
+- ⚙️ **Enfoque:** Código modular y optimización de procesos.
+- 🛠️ **Metodología:** Control de versiones y estructura de datos limpia.
+- ⚡ **Disponibilidad:** Abierto a nuevos retos que requieran análisis crítico y ejecución técnica.
 
-Actualmente estoy trabajando en mis primeros proyectos prácticos mientras balanceo mi formación universitaria. Cada proyecto es una oportunidad para consolidar conceptos y aplicar nuevas tecnologías. Mi mentalidad se basa en consistencia sobre perfección, pequeños pasos diarios y código limpio.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SeGonM)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sml.munoz.gonzalez@gmail.com)
 
----
 
-## Stack Tecnológico
-
-**Dominando**
-- Python
-- Git
-- GitHub
-
-**Aprendiendo Actualmente**
-- Node.js
-- HTML5
-- CSS3
-- JavaScript
-
-**Próximas Metas**
-- SQL
-- NoSQL
-- React
-- Astro
-- Express.js
-
-    </td>
-    <td valign="top" width="50%">
+</td>
+    <td valign="top" width="35%">
       <p align="center">
-        <img src="https://i.pinimg.com/736x/fd/ff/15/fdff154c65eb56951b50fd3cca0be78f.jpg" alt="Samuel" style="width:100%; max-width: 300px; border-radius: 15px; border: 3px solid #00D9FF;">
+        <!-- Reemplaza esta URL por tu foto/avatar -->
+        <img src="https://i.pinimg.com/736x/fd/ff/15/fdff154c65eb56951b50fd3cca0be78f.jpg" alt="Samuel" style="width:500px; border-radius: 50%;">
       </p>
-
-## Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/SeGonM" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sml.munoz.gonzalez@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/SeGonM" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-## Información
-
-LinkedIn: https://www.linkedin.com/in/SeGonM
-Email: sml.munoz.gonzalez@gmail.com
-
     </td>
   </tr>
 </table>
 
 ---
 
-## Intereses Principales
-
-**Backend Development** — Construir APIs robustas, escalables y eficientes que resuelvan problemas reales. Me fascina la lógica detrás de los servidores y cómo los datos fluyen a través de las aplicaciones.
-
-**Data & Analytics** — Transformar datos en información accionable. Desde la limpieza y transformación hasta análisis que apoyen decisiones estratégicas.
-
-**Full-Stack Learning** — Aunque mi pasión es backend, entiendo la importancia de comprender todo el ecosistema del desarrollo web moderno.
-
----
-
-## Formación
-
-Estudiante de Ingeniería Informática (5º semestre) - Aprendizaje continuo a través de cursos, documentación oficial y proyectos prácticos con mentalidad de crecimiento.
-
----
-
-<p align="center">
-  "El mejor código no es el más complejo, es el que resuelve el problema de forma clara y mantenible"
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode,arch&theme=dark" alt="skills" />
 </p>
+
+---
+
+### Sobre mí
+
+Soy especialista en convertir datos en información accionable: limpieza, transformación y visualización para apoyar decisiones. Me interesa especialmente la reproducibilidad, pipelines de datos[...]
+
+### Contacto
+
+- LinkedIn: https://www.linkedin.com/in/SeGonM
+- Email: sml.munoz.gonzalez@gmail.com
+
+<!-- Notas:
+  - Para usar tus propias imágenes: sube el banner y la foto al repo (por ejemplo en /assets/) y reemplaza las URLs por las del raw blob:
+    https://raw.githubusercontent.com/SeGonM/SeGonM/main/assets/tu-imagen.png
+  - Si quieres que coloque tus imágenes yo mismo, pásame los ficheros o las URLs y lo dejo listo.
+  - Si prefieres un diseño más oscuro/estilizado (como la captura), puedo ajustar colores, añadir tarjetas y botones con enlaces.
+-->
