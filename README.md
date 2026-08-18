@@ -60,15 +60,6 @@ Actualmente estoy trabajando en mis primeros proyectos prácticos mientras balan
 
 ---
 
-## Mis Intereses Principales
-
-### Backend Development
-Construir APIs robustas, escalables y eficientes que resuelvan problemas reales. Me fascina la lógica detrás de los servidores y cómo los datos fluyen a través de las aplicaciones.
-
-### Full-Stack Learning
-Aunque mi pasión es backend, entiendo la importancia de comprender todo el ecosistema del desarrollo web moderno.
-
----
 
 ## Proyecto Actual
 
