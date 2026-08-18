@@ -12,9 +12,13 @@
   <tr>
     <td valign="top" width="65%">
 
-Soy Samuel, estudiante de 5º semestre de Ingeniería Informática con pasión genuina por el desarrollo web backend y el análisis de datos. Me considero una persona disciplinada en mi aprendizaje, amable y dispuesto a colaborar en equipo.
+Soy Samuel, estudiante de 5º semestre de Ingeniería Informática con pasión genuina por el desarrollo web backend y el análisis de datos. Me considero una persona disciplinada en mi aprendizaje, amable y siempre dispuesto a colaborar en equipo. Creo firmemente que el código bien estructurado y los datos bien interpretados son la base para resolver problemas reales y generar impacto en cualquier proyecto.
 
-Actualmente estoy trabajando en mis primeros proyectos prácticos mientras balanceo mi formación universitaria. Cada proyecto es una oportunidad para consolidar conceptos y aplicar nuevas tecnologías.
+Actualmente estoy trabajando en mis primeros proyectos prácticos mientras balanceo mi formación universitaria de manera equilibrada. Cada proyecto que desarrollo es una oportunidad valiosa para consolidar conceptos fundamentales y aplicar nuevas tecnologías en contextos reales. Busco constantemente mejorar mis habilidades técnicas y aprender de la comunidad de desarrolladores.
+
+Mi enfoque profesional se centra en escribir código modular, limpio y mantenible que siga buenas prácticas de desarrollo. Valoro el control de versiones riguroso, la documentación clara y la colaboración efectiva en equipo. Estoy siempre abierto a retroalimentación constructiva y considero que el aprendizaje continuo es fundamental para crecer como profesional en esta industria tecnológica.
+
+Me motiva especialmente trabajar en proyectos que requieran pensamiento crítico y ejecución técnica precisa. Estoy comprometido con mi crecimiento profesional y busco constantemente nuevos desafíos que me permitan expandir mis conocimientos y habilidades de programación. Mi objetivo es convertirme en un desarrollador competente y versátil, capaz de adaptarse a diferentes tecnologías y contribuir significativamente en equipos de trabajo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SeGonM)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sml.munoz.gonzalez@gmail.com)
@@ -60,6 +64,15 @@ Actualmente estoy trabajando en mis primeros proyectos prácticos mientras balan
 
 ---
 
+## Mis Intereses Principales
+
+### Backend Development
+Construir APIs robustas, escalables y eficientes que resuelvan problemas reales. Me fascina la lógica detrás de los servidores y cómo los datos fluyen a través de las aplicaciones.
+
+### Full-Stack Learning
+Aunque mi pasión es backend, entiendo la importancia de comprender todo el ecosistema del desarrollo web moderno.
+
+---
 
 ## Proyecto Actual
 
