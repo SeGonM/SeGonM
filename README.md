@@ -18,8 +18,6 @@ Me defino como una persona:
 -  **Curiosa** — siempre buscando aprender nuevas tecnologías y mejores prácticas
 -  **Dedicada** — balanceando estudios universitarios con proyectos personales y formación continua
 
-> *"El viaje del mil millas comienza con un solo commit"* 💻
-
 ---
 
 ##  Stack Tecnológico
@@ -55,9 +53,6 @@ Me defino como una persona:
 ###  Backend Development
 Construir APIs robustas, escalables y eficientes que resuelvan problemas reales. Me fascina la lógica detrás de los servidores y cómo los datos fluyen a través de las aplicaciones.
 
-###  Data & Analytics
-Transformar datos en información accionable. Desde la limpieza y transformación hasta análisis que apoyen decisiones estratégicas.
-
 ###  Full-Stack Learning
 Aunque mi pasión es backend, entiendo la importancia de comprender todo el ecosistema del desarrollo web moderno.
 
@@ -69,17 +64,6 @@ Aunque mi pasión es backend, entiendo la importancia de comprender todo el ecos
 
 *Próximas actualizaciones sobre mis proyectos*
 
----
-
-##  Mi Filosofía de Aprendizaje
-
-```
-Consistencia > Perfección
-Pequeños pasos diarios > Cero esfuerzo ocasional
-Código limpio > Código que "funciona"
-Colaboración > Trabajo aislado
-Preguntas > Suposiciones
-```
 
 ---
 
@@ -119,13 +103,6 @@ Preguntas > Suposiciones
 
 ---
 
-<p align="center">
-  <i> "El mejor código no es el más complejo, es el que resuelve el problema de forma clara y mantenible"</i>
-</p>
-
-<p align="center">
-   Si te gusta lo que ves, considera dejar una estrella en mis repositorios. ¡Gracias! 🚀
-</p>
 
 ---
 
