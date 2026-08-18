@@ -38,12 +38,6 @@ Actualmente estoy trabajando en mis primeros proyectos prácticos mientras balan
 
 ---
 
-### Sobre mí
-
-Soy especialista en convertir datos en información accionable: limpieza, transformación y visualización para apoyar decisiones. Me interesa especialmente la reproducibilidad, pipelines de datos[...]
-
-### Contacto
-
 - LinkedIn: https://www.linkedin.com/in/SeGonM
 - Email: sml.munoz.gonzalez@gmail.com
 
