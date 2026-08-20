@@ -12,13 +12,17 @@
   <tr>
     <td valign="top" width="65%">
 
-Soy Samuel, estudiante de 5º semestre de Ingeniería Informática con pasión genuina por el desarrollo web backend y el análisis de datos. Me considero una persona disciplinada en mi aprendizaje, amable y siempre dispuesto a colaborar en equipo. Creo firmemente que el código bien estructurado y los datos bien interpretados son la base para resolver problemas reales y generar impacto en cualquier proyecto.
+# ¡Hola! Soy Samuel 👋
 
-Actualmente estoy trabajando en mis primeros proyectos prácticos mientras balanceo mi formación universitaria de manera equilibrada. Cada proyecto que desarrollo es una oportunidad valiosa para consolidar conceptos fundamentales y aplicar nuevas tecnologías en contextos reales. Busco constantemente mejorar mis habilidades técnicas y aprender de la comunidad de desarrolladores.
+Estudiante de 5.º semestre de **Ingeniería Informática**, en proceso de aprendizaje y enfocado en el **desarrollo web backend**. 
 
-Mi enfoque profesional se centra en escribir código modular, limpio y mantenible que siga buenas prácticas de desarrollo. Valoro el control de versiones riguroso, la documentación clara y la colaboración efectiva en equipo. Estoy siempre abierto a retroalimentación constructiva y considero que el aprendizaje continuo es fundamental para crecer como profesional en esta industria tecnológica.
+---
 
-Me motiva especialmente trabajar en proyectos que requieran pensamiento crítico y ejecución técnica precisa. Estoy comprometido con mi crecimiento profesional y busco constantemente nuevos desafíos que me permitan expandir mis conocimientos y habilidades de programación. Mi objetivo es convertirme en un desarrollador competente y versátil, capaz de adaptarse a diferentes tecnologías y contribuir significativamente en equipos de trabajo.
+### 🚀 Sobre mí
+- 🌱 **En aprendizaje activo:** Construyendo mis primeros proyectos prácticos para consolidar conceptos fundamentales y aplicar buenas prácticas.
+- 💻 **Mi enfoque:** Aprender a escribir código modular, limpio, mantenible y con un control de versiones riguroso.
+- 🤝 **Trabajo en equipo:** Me considero una persona disciplinada, amable y siempre abierta a recibir retroalimentación constructiva para seguir creciendo.
+- 🎯 **Mi objetivo:** Convertirme en un desarrollador competente, capaz de resolver problemas reales y adaptarme a nuevos retos técnicos.
 
 </td>
     <td valign="top" width="35%">
