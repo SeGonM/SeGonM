@@ -1,8 +1,4 @@
-<!-- Reemplaza las URLs de las imágenes por tus propias imágenes para personalizar tu perfil. Sube las imágenes a /assets/ y usa las URLs en raw.githubusercontent.com si lo prefieres. -->
-# SeGonM 👋
-
 <p align="center">
-  <!-- He cambiado height a auto para evitar que la imagen se deforme. -->
   <img src="https://i.pinimg.com/736x/13/1f/af/131faf0ccc668e1fb1585dfac4f37e1c.jpg" alt="Banner" style="width: 100%; height: auto; display: block; border-radius: 8px;">
 </p>
 
@@ -12,7 +8,7 @@
   <tr>
     <td valign="top" width="65%">
 
-# ¡Hola! Soy Samuel 👋
+# ¡Hola! Soy Samuel 
 
 Estudiante de 5.º semestre de **Ingeniería Informática**, en proceso de aprendizaje y enfocado en el **desarrollo web backend**. 
 
@@ -27,7 +23,6 @@ Estudiante de 5.º semestre de **Ingeniería Informática**, en proceso de apren
 </td>
     <td valign="top" width="35%">
       <p align="center">
-        <!-- Reemplaza esta URL por tu foto/avatar -->
         <img src="https://i.pinimg.com/736x/86/c2/29/86c229df5971f06531f9d0e215f95d34.jpg" alt="Samuel" style="width:500px; border-radius: 50%;">
       </p>
     </td>
