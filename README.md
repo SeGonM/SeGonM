@@ -36,21 +36,21 @@ I am a 5th-semester Computer Engineering student, currently learning and focused
 ### Proficient
 <p>
   
-  [![My Skills](https://skillicons.dev/icons?i=py,git,github)]
+  ![My Skills](https://skillicons.dev/icons?i=py,git,github)
   
 </p>
 
 ### Currently Learning
 <p>
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css)]
+  ![My Skills](https://skillicons.dev/icons?i=js,html,css)
   
 </p>
 
 ### Upcoming Goals
 <p>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,postgres,mongodb,astro)]
+  ![My Skills](https://skillicons.dev/icons?i=react,postgres,mongodb,astro)
   
 </p>
 
